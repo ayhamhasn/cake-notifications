@@ -1,0 +1,76 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2015-06-07 20:37+0200\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: Model/Table/NotificationQueueTable.php:99;306
+msgid "create_notification.invalid_identifier"
+msgstr ""
+
+#: Model/Table/NotificationQueueTable.php:301
+msgid "create_notification.no_recipient_user_given"
+msgstr ""
+
+#: Template/Element/user_notification_list.ctp:6
+msgid "no_unread_onpage_notifications"
+msgstr ""
+
+#: Template/Element/user_notification_list.ctp:15
+msgid "load_more_onpage_notifications"
+msgstr ""
+
+#: Template/NotificationContents/edit.ctp:3;6
+#: Template/NotificationContents/index.ctp:2;5
+#: Template/NotificationContents/view.ctp:2
+msgid "notification contents.headline"
+msgstr ""
+
+#: Template/NotificationContents/edit.ctp:3
+#: Template/NotificationContents/index.ctp:7
+msgid "notification_contents.add"
+msgstr ""
+
+#: Template/NotificationContents/edit.ctp:3
+#: Template/NotificationContents/view.ctp:7
+msgid "notification_contents.edit"
+msgstr ""
+
+#: Template/NotificationContents/edit.ctp:8
+#: Template/NotificationContents/view.ctp:8
+msgid "forms.back_to_list"
+msgstr ""
+
+#: Template/NotificationContents/edit.ctp:15
+#: Template/NotificationContents/index.ctp:13
+#: Template/NotificationContents/view.ctp:12
+msgid "notification_content.notification_identifier"
+msgstr ""
+
+#: Template/NotificationContents/edit.ctp:18
+#: Template/NotificationContents/view.ctp:15
+msgid "notification_content.notes"
+msgstr ""
+
+#: Template/NotificationContents/view.ctp:2;5
+msgid "notification_contents.view"
+msgstr ""
+
+#: Template/NotificationContents/view.ctp:18
+msgid "notification_content.created"
+msgstr ""
+
+#: Template/NotificationContents/view.ctp:21
+msgid "notification_content.modified"
+msgstr ""
+

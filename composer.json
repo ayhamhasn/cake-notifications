@@ -1,0 +1,28 @@
+{
+    "name": "ayhamhasn/cake-notifications",
+    "description": "CakePHP3 Notifications Plugin",
+    "license": "MIT",
+    "type": "cakephp-plugin",
+    "extra": {
+        "installer-name": "Notifications"
+    },
+    "require": {
+        "cakephp/plugin-installer": "*"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "*",
+        "cakephp/cakephp": "3.0.x-dev"
+    },
+    "autoload": {
+        "psr-4": {
+            "Notifications\\": "src"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Notifications\\": "src",
+            "Notifications\\Test\\": "tests",
+            "Notifications\\Test\\Fixture\\": "tests/Fixture"
+        }
+    }
+}
